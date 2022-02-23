@@ -11,7 +11,7 @@
         private $attackMag;
         private $resistMag;
         
-        //
+        //function du guerrier
 
 
     }
